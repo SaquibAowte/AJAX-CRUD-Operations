@@ -32,28 +32,28 @@
                     <div class="col-12">
                         <div class="mb-3">
                             <label for="firstname" class="form-label">First Name</label>
-                            <input type="text" class="form-control" id="firstname" name="firstname" aria-describedby="FirstNameHelp" placeholder="E.g Saquib" required>                                        
+                            <input type="text" class="form-control" id="firstname" name="" aria-describedby="FirstNameHelp" placeholder="E.g Saquib" required>                                        
                         </div>
                     </div>    
                     
                     <div class="col-12">
                         <div class="mb-3">
                             <label for="lastname" class="form-label">Last Name</label>
-                            <input type="text" class="form-control" id="lastname" name="lastname" aria-describedby="LastNameHelp" placeholder="E.g Aowte" required>
+                            <input type="text" class="form-control" id="lastname" name="" aria-describedby="LastNameHelp" placeholder="E.g Aowte" required>
                         </div>
                     </div>
                     
                     <div class="col-12">
                         <div class="mb-3">
                             <label for="email" class="form-label">Email ID</label>
-                            <input type="email" class="form-control" id="email" name="email" aria-describedby="EmailHelp" placeholder="E.g abcd@gmail.com" required>                                        
+                            <input type="email" class="form-control" id="email" name="" aria-describedby="EmailHelp" placeholder="E.g abcd@gmail.com" required>                                        
                         </div>
                     </div>
 
                     <div class="col-12">
                         <div class="mb-3">
                             <label for="mobnumber" class="form-label">Contact Number</label>
-                            <input type="text" class="form-control" id="mobnumber" name="mobnumber" aria-describedby="NumberHelp" placeholder="E.g 0123456789" maxlength="10" required>
+                            <input type="text" class="form-control" id="mobnumber" name=" " aria-describedby="NumberHelp" placeholder="E.g 0123456789" maxlength="10" required>
                         </div>
                     </div>
                 </form>
@@ -79,28 +79,28 @@
                     <div class="col-12">
                         <div class="mb-3">
                             <label for="update_firstname" class="form-label">Update First Name</label>
-                            <input type="text" class="form-control" id="update_firstname" name="update_firstname" aria-describedby="update_FirstNameHelp" placeholder="E.g Saquib" required>                                        
+                            <input type="text" class="form-control" id="update_firstname" name="" aria-describedby="update_FirstNameHelp" placeholder="E.g Saquib" required>                                        
                         </div>
                     </div>    
                     
                     <div class="col-12">
                         <div class="mb-3">
                             <label for="update_lastname" class="form-label">Update Last Name</label>
-                            <input type="text" class="form-control" id="update_lastname" name="update_lastname" aria-describedby="update_LastNameHelp" placeholder="E.g Aowte" required>
+                            <input type="text" class="form-control" id="update_lastname" name="" aria-describedby="update_LastNameHelp" placeholder="E.g Aowte" required>
                         </div>
                     </div>
                     
                     <div class="col-12">
                         <div class="mb-3">
                             <label for="update_email" class="form-label">Update Email ID</label>
-                            <input type="email" class="form-control" id="update_email" name="update_email" aria-describedby="update_EmailHelp" placeholder="E.g abcd@gmail.com" required>                                        
+                            <input type="email" class="form-control" id="update_email" name="" aria-describedby="update_EmailHelp" placeholder="E.g abcd@gmail.com" required>                                        
                         </div>
                     </div>
 
                     <div class="col-12">
                         <div class="mb-3">
                             <label for="update_mobnumber" class="form-label">Update Contact Number</label>
-                            <input type="text" class="form-control" id="update_mobnumber" name="update_mobnumber" aria-describedby="update_NumberHelp" placeholder="E.g 0123456789" maxlength="10" required>
+                            <input type="text" class="form-control" id="update_mobnumber" name="" aria-describedby="update_NumberHelp" placeholder="E.g 0123456789" maxlength="10" required>
                         </div>
                     </div>
                 </form>
